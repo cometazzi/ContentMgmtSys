@@ -1,5 +1,5 @@
 ## Jared Doderer Individual Project
- =-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
 
 ### Problem Statement
 
