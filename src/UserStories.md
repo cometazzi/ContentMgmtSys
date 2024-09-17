@@ -1,5 +1,4 @@
-## TODO: rearrange, categorize into pages, and MVP-ize this list
-
+## User Stories
 
 ### Document admin
 
