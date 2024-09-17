@@ -61,4 +61,3 @@ Choose a format that works for you, or create your own.
 
 #### [Weekly Reflection](WeeklyReflection.md)
 #### [Journal](Journal.md)
-#### [TimeLog](TimeLog.md)
