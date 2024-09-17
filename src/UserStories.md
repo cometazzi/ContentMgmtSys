@@ -1,6 +1,6 @@
 ## User Stories
 
-### Document admin
+### Document Administrator Role
 
 #### Admin Login*
 * As an Admin I want to be able to log into a limited access area so that I can manage users and documents
@@ -20,7 +20,7 @@
 * As an Admin I want to be able to change my or anyone else's password
 
 
-### Document User
+### Document User Role
 
 #### User Login
 * As a logged-in user I want to be able to log in and have the system know which documents are relevant for my department
