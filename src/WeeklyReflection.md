@@ -31,10 +31,26 @@ Looks like I'm stuck with the Document Management System!
 
 ### Week 2
 
-09/01/2024
+09/01/2024 - 1hr
 
 * Created this repository
 * Wrote the problem statement
 * Started documenting the project plan
 * Began listing technologies and how they fit in this project
 * Tried to boost my self-confidence
+
+### Week 3
+
+09/08/2024 - 0hr
+
+* Busy week as I was catching up on other assignments and had a number of doctor's appointments
+
+### Week 4
+
+09/15/2024
+
+* Created User Stories
+* Created page headers 
+* Copied and edited Project Plan
+* Created list of MVP selections
+* 
