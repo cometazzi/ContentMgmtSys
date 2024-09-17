@@ -47,10 +47,12 @@ Looks like I'm stuck with the Document Management System!
 
 ### Week 4
 
-09/15/2024 - 2hr
+09/15/2024 - 5hr
 
 * Created User Stories
 * Created page headers 
 * Copied and edited Project Plan
 * Created list of MVP selections, though I wonder if my design consolidates too many things onto each page.  It seems
-logical for a document management system to have the ability to do all CRUD operations in one place.
+logical for a document management system to have the ability to do all CRUD operations in one or a few places.
+
+* Created wireframes in Figjam. I am a machine-builder, not an artist.  Unfortunately.
