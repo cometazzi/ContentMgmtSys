@@ -5,7 +5,7 @@
 - [X] Create project structure in intellij and push
 - [X] Add link to list of indie projects in student repo.
 - [X] Complete Problem Statement
-- [ ] Weekly reflection/time log
+- [X] Weekly reflection/time log
 
 ### Week 3
 - [ ] Research possible Web Services/APIs to use

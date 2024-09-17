@@ -47,10 +47,10 @@ Looks like I'm stuck with the Document Management System!
 
 ### Week 4
 
-09/15/2024
+09/15/2024 - 2hr
 
 * Created User Stories
 * Created page headers 
 * Copied and edited Project Plan
-* Created list of MVP selections
-* 
+* Created list of MVP selections, though I wonder if my design consolidates too many things onto each page.  It seems
+logical for a document management system to have the ability to do all CRUD operations in one place.
