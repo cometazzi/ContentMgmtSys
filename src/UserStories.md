@@ -12,7 +12,7 @@
 * As an Admin I want to be able to upload/add documents to the system*
 * As an Admin I want to be able to tag documents with versions, so we know what is the most current
 * As an Admin I want to be able to tag documents with one or more categories or departments*
-* As an Admin I want to be able to see the version of the newest document, and be able to see previous versions as well
+* As an Admin I want to be able to see the version of the newest document, and be able to see changes since previous versions as well
 * As an Admin I want to be able to remove objects from the system*
 
 #### Manage Users*
